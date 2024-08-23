@@ -1,0 +1,9 @@
+@import url(links.css);
+:root {
+    --fundo: #0A043C; 
+    --branco: #FFE3D8; 
+    --borda: #03506F; 
+    --texto: #BBBBBB; 
+    --hover: #03506F; 
+    --tipografia: 'Roboto', sans-serif;
+}
